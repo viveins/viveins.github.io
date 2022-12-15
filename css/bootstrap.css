@@ -274,6 +274,26 @@ th {
   src: url('../fonts/glyphicons-halflings-regular.eot');
   src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 30px;
+  text-alig: left;
+  text-decoration: none;
+  border-radius: 100%;
+}
+.fa-facebook {
+  color: #3B5998;
+}
+.fa-youtube {
+  color: #FF0000;
+}
+.fa-github {
+  color: #171515;
+}
+.fa-linkedin {
+  color:  #0A66C2;
+}
 .glyphicon {
   position: relative;
   top: 1px;
